@@ -1,3 +1,11 @@
+## Build Something to Reduce Food Waste MLH LHD Day 2 Challange I make a this shopping list
+Always make a shopping list
+Buying foods that are already in the home can ultimately become another source of waste.
+
+Taking an inventory of the food in the house and making a grocery list before going to the store might help people avoid purchasing unnecessary foods and cut back on potential waste.
+
+
+
 # Shopping-List
 A simple shopping list using HTML, CSS and Javascript DOM events.
 
